@@ -25,6 +25,8 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Es un pequeño sistema de pagos para entender mejor la arquitectura Hexagonal.
+
 
 ## Installation
 
